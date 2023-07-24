@@ -1,10 +1,10 @@
 {
   "Products" : [
       {
-      name : "Pencil",
-      price : 400,
-      details :  "Pencil is writting equipment",
-      url : "",
+      "name" : "Pencil",
+      "price" : 400,
+      "details" :  "Pencil is writting equipment",
+      "url" : "",
     },
   ]
 }
