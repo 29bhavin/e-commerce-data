@@ -1,5 +1,4 @@
-{
-  "Products" : [
+ [
       {
       "name" : "Apple iPhone 14 (128 GB) - Blue",
       "price" : 69999,
@@ -22,4 +21,3 @@
        "url" : "https://m.media-amazon.com/images/I/61ngnTanGnL._SX679_.jpg"
     }
   ]
-}
